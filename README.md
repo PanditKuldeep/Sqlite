@@ -1,1 +1,1 @@
-# Sqlite
+# Sqlite database
